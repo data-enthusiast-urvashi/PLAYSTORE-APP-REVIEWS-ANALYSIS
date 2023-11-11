@@ -1,4 +1,4 @@
-# Playstore-App-Review-Analysis
+# PLAYSTORE-APP-REVIEWS-ANALYSIS
 
 ![](https://media.tenor.com/8gXeiN5vTqEAAAAC/google-play-apps-google-play-services.gif)
 
