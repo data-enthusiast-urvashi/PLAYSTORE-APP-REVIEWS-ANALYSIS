@@ -12,9 +12,9 @@ Google Play Store is an official app store developed and managed by Google for A
 
 In our project we have provided with two datasets-
 
-1.Playstore dataset- It consists of 13 column which has App,Category,Rating,Reviews,Size,Installs,Type,Price,Genres,Content Rating,Last updated,Current Ver,Android Ver and 10842 rows which has all the information with respect to corresponding column.Dataset also has null values and duplicates which is handled by us.
+1. Playstore dataset- It consists of 13 column which has App,Category,Rating,Reviews,Size,Installs,Type,Price,Genres,Content Rating,Last updated,Current Ver,Android Ver and 10842 rows which has all the information with respect to corresponding column.Dataset also has null values and duplicates which is handled by us.
 
-2 User review dataset- It consists of 5 column which has App,Translated_Review,Sentiment,Sentiment_subjectivity,Sentiment_polarity and 64296 rows which has all information with respect to corresponding column.Dataset also has null values and duplicates which is handled by us.
+2. User review dataset- It consists of 5 column which has App,Translated_Review,Sentiment,Sentiment_subjectivity,Sentiment_polarity and 64296 rows which has all information with respect to corresponding column.Dataset also has null values and duplicates which is handled by us.
 
 The main objective ot this project is to conduct exploratory data analysis on both datasets and aim to extract key insights which is crucial to improve app performance,user experience and identify the key factors driving the app success.
 
@@ -25,13 +25,13 @@ We will present our findings through data visualizations such as heatmaps, scatt
 ## Conclusion
 Conclusions which are derived from Exploratory Data Analysis of both Datasets are as follows -
 
-1.'FACEBOOK' app has received the highest reviews.
+1. 'FACEBOOK' app has received the highest reviews.
 
-2.Majority of the apps are accessed by 'EVERYONE'[i.e of all age groups,(81.82%)].
+2. Majority of the apps are accessed by 'EVERYONE'[i.e of all age groups,(81.82%)].
 
-3.App belongs to Category 'Family' has maximum distribution over the playstore but have lesser installation because of its high price.
+3. App belongs to Category 'Family' has maximum distribution over the playstore but have lesser installation because of its high price.
 
-4.App belongs to Category 'Game' has maximum number of installations which is followed by the category 'Communication' and 'Tools' respectively.
+4. App belongs to Category 'Game' has maximum number of installations which is followed by the category 'Communication' and 'Tools' respectively.
 
 5. Majority of apps belongs to type 'FREE' i.e.92.18%
 
