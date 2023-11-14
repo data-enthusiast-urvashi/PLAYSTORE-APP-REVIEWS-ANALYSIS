@@ -33,19 +33,19 @@ Conclusions which are derived from Exploratory Data Analysis of both Datasets ar
 
 4.App belongs to Category 'Game' has maximum number of installations which is followed by the category 'Communication' and 'Tools' respectively.
 
-5.Majority of apps belongs to type 'FREE' i.e.92.18%
+5. Majority of apps belongs to type 'FREE' i.e.92.18%
 
-6.Majority of the apps have Rating in the range of 4-5.Average rating comes out to be 4.3
+6. Majority of the apps have Rating in the range of 4-5.Average rating comes out to be 4.3
 
-7.Maximum apps belonged to each category are working on Android Ver 4.0 and up.
+7. Maximum apps belonged to each category are working on Android Ver 4.0 and up.
 
-8.App Avg. size varies from 10MB-20MB for majority of the apps.Only APP which belongs to category 'GAME' has a size of 34MB.
+8. App Avg. size varies from 10MB-20MB for majority of the apps.Only APP which belongs to category 'GAME' has a size of 34MB.
 
-9.Maximum users sentiment are 'Positive' i.e. 64.11%
+9. Maximum users sentiment are 'Positive' i.e. 64.11%
 
-10.Most positive review app is 'Helix Jump'.
+10. Most positive review app is 'Helix Jump'.
 
-11.Most negative review app is 'Angry Bird Classic'.
+11. Most negative review app is 'Angry Bird Classic'.
 
 To be more precise regarding the apps the current trend in the Android market are mostly from the category 'GAME', 'COMMUNICATION', 'TOOLS' which either assisting, communicating or entertaining apps.
 **************************************************************************************************************************************************
