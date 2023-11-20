@@ -53,7 +53,7 @@ To download the dataset: [Click here](https://drive.google.com/drive/folders/1lT
 
 Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/urvashi-dhakate-b0780320a/).
+Connect with me on [Linkedin](https://www.linkedin.com/in/urvashi-dhakate-b0780320a/)
 
 Happy Learning!
 **************************************************************************************************************************************************
