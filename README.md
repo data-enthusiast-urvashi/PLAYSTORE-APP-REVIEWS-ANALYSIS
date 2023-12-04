@@ -49,11 +49,11 @@ Conclusions which are derived from Exploratory Data Analysis of both Datasets ar
 
 To be more precise regarding the apps the current trend in the Android market are mostly from the category 'GAME', 'COMMUNICATION', 'TOOLS' which either assisting, communicating or entertaining apps.
 **************************************************************************************************************************************************
-To download the dataset: [Click here](https://drive.google.com/drive/folders/1lTGehQxi6TP94dHEuLKERb0sXXNA44b1?usp=sharing)
+To download the dataset: [Click here](https://drive.google.com/drive/folders/1lTGehQxi6TP94dHEuLKERb0sXXNA44b1?usp=sharing)..
 
 Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/urvashi-dhakate-b0780320a/)
+Connect with me on [Linkedin](https://www.linkedin.com/in/urvashi-dhakate-b0780320a/)..
 
 Happy Learning!
 **************************************************************************************************************************************************
