@@ -1,6 +1,6 @@
 # PLAYSTORE-APP-REVIEWS-ANALYSIS
 
-![](https://media.tenor.com/8gXeiN5vTqEAAAAC/google-play-apps-google-play-services.gif)
+![](https://media.tenor.com/8gXeiN5vTqEAAAAC/google-play-apps-google-play-services.gif)..
 
 This repository contains an exploratory data analysis (EDA) project focused on analyzing Play Store apps data. The Play Store is a significant platform for Android app developers, offering vast potential for app-making businesses to thrive. By extracting actionable insights from the available data, developers can gain valuable knowledge to capture the Android market successfully.
 
